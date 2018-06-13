@@ -5,4 +5,5 @@
 {"sensor_id":"5","device_id":"nokiaHV30GarageSensor","sensorname":"garageSensor5", "latitude":"61.4956561", "longitude":"23.7683886", "temp_range_low":"1", "temp_range_high":"10", "hum_range_low":"1", "hum_range_high":"50"},
 {"sensor_id":"6","device_id":"nokiaHV30GarageSensor","sensorname":"garageSensor6", "latitude":"61.4994652", "longitude":"23.7614363", "temp_range_low":"1", "temp_range_high":"10", "hum_range_low":"1", "hum_range_high":"50"},
 {"sensor_id":"7","device_id":"nokiaHV30GarageSensor","sensorname":"garageSensor7", "latitude":"61.5005658", "longitude":"23.7627895", "temp_range_low":"1", "temp_range_high":"10", "hum_range_low":"1", "hum_range_high":"50"},
-{"sensor_id":"8","device_id":"nokiaHV30GarageSensor","sensorname":"garageSensor8", "latitude":"61.4888913", "longitude":"23.7632998", "temp_range_low":"1", "temp_range_high":"10", "hum_range_low":"1", "hum_range_high":"50"}]
+{"sensor_id":"8","device_id":"nokiaHV30GarageSensor","sensorname":"garageSensor8", "latitude":"61.4888913", "longitude":"23.7632998", "temp_range_low":"1", "temp_range_high":"10", "hum_range_low":"1", "hum_range_high":"50"},
+{"sensor_id":"9","device_id":"nokiaHV30GarageSensor","sensorname":"mausoleumi", "latitude":"61.299501", "longitude":"23.477291", "temp_range_low":"1", "temp_range_high":"10", "hum_range_low":"1", "hum_range_high":"50"}]
